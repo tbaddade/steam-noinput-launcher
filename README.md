@@ -17,7 +17,7 @@ Useful for users who experience issues with racing wheels, gamepads or HID devic
 
 ### 📦 Installation
 
-1. Download the `.app` bundle from [Releases](https://github.com/YOUR-USERNAME/steam-noinput-launcher/releases)
+1. Download the `.app` bundle from [Releases](https://github.com/tbaddade/steam-noinput-launcher/releases)
 2. Move it to `/Applications` or your preferred location
 3. Optional: Add it to the Dock or Login Items
 4. Double-click to launch Steam with input disabled
@@ -50,7 +50,7 @@ Perfekt für Nutzer, bei denen Lenkräder, Gamepads oder HID-Geräte unter Steam
 
 ### 📦 Installation
 
-1. Lade das `.app`-Bundle von [Releases](https://github.com/YOUR-USERNAME/steam-noinput-launcher/releases) herunter
+1. Lade das `.app`-Bundle von [Releases](https://github.com/tbaddade/steam-noinput-launcher/releases) herunter
 2. Verschiebe es in `/Programme` oder einen Ort deiner Wahl
 3. Optional: Ins Dock oder Autostart legen
 4. Mit Doppelklick starten – Steam wird ohne Input geladen
